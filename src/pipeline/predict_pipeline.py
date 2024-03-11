@@ -1,7 +1,7 @@
 import sys 
 import pandas as pd
 from sklearn.model_selection import PredefinedSplit
-from traitlets import Int 
+
 from src.exception import CustomException
 from src.utlis import load_object
 
